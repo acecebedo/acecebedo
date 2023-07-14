@@ -1,6 +1,6 @@
 ### Hi there, my name is Ace 👋
 
-I am a student studying Computer systems engineering aiming to be a consultant/developer. <br>
+I am a student studying Computer Systems Engineering aiming to be a consultant/developer. <br>
 I'm constantly trying to learn and improve my coding skills through online training. <br>
 Currently languages, in descending order, im most proficient in would be: <br>
 
