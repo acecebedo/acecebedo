@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, my name is Ace 👋
+
+I am a student studying Computer systems engineering aiming to be a consultant/developer. <br>
+I'm constantly trying to learn and improve my coding skills through online training. <br>
+Currently languages, in descending order, im most proficient in would be: <br>
+
+- Java
+- c++
+- python
 
 <!--
 **acecebedo/acecebedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
