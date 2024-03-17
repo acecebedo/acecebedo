@@ -7,6 +7,7 @@ Currently languages, in descending order, im most proficient in would be: <br>
 - Java
 - c++
 - python
+- JavaScript
 
 <!--
 **acecebedo/acecebedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
