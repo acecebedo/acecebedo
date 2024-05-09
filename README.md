@@ -4,10 +4,10 @@ I am a recent Computer Systems Engineering graduate aiming to be a technology co
 I'm constantly trying to learn and improve my coding skills through online training. <br>
 Currently languages, in descending order, im most proficient in would be: <br>
 
-- Java
-- c++
-- python
+- Python
 - JavaScript
+- Java
+- C++
 
 <!--
 **acecebedo/acecebedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
